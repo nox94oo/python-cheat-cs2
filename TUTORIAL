@@ -1,0 +1,9 @@
+You need to place the cheat file in the CS2 root folder, or alternatively here:
+
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64
+
+Then launch your game, wait a few seconds for it to start, and then you can run the script.
+
+dowloads : pip install PySide6 qt-material requests pymem pywin32 pynput
+ 
+and You also need to install pyMeow. Once you've installed all of this, you’ll be ready to cheat.
